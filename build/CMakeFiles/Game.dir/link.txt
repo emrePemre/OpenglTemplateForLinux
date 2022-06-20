@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Game.dir/home/caligula/Belgeler/Project/Game/lib/glad.c.o CMakeFiles/Game.dir/home/caligula/Belgeler/Project/Game/src/main.cpp.o  -o Game  -lGL -ldl -lglfw 
